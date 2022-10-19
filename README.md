@@ -5,7 +5,7 @@
 ####   Creative at Heart, Full stack or  MERN STACK Developer, web  Expert
 ![  Creative at Heart, Full stack or  MERN STACK Developer, web  Expert](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/275853976_508648704118229_1373178800883701941_n.png?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHaCFvEhqtAhAWTcR0Ee4MNt_yv21y_0Qu3_K_bXL_RCxCZ2agaIrzQVgoldzcqXYiytvAPbLHx4R2pBZj0qegu&_nc_ohc=DzpmVtd0lzoAX-op-HQ&_nc_zt=23&_nc_ht=scontent.fdac99-1.fna&oh=00_AT8NBgStpS33UjMcx43KruZOi8vDpKfp79jbceTyR5P54w&oe=62387176)
 
-I'm an Md Antor Ali and professional Fullstack web developer. I have 3 years of experience in this field and strong expertise in the MERN stack. I know   MongoDB, Express js,React js, Node js also next js , redux &  HTML, CSS, tailwind CSS, Bootstrap, Javascript, jQuery, Material UI, and GitHub. I will assure you the best quality work with 24/7 services, unlimited revisions, and amazing seasonal offers. For any query be easy to contact me.
+I'm an Md Antor Ali and professional Fullstack web developer. I have 3 years of experience in this field and strong expertise in the MERN stack. I know   MongoDB, Express js,React js, Node js also next js , redux and Redux toolkit query &  HTML, CSS, tailwind CSS, Bootstrap, Javascript, jQuery, Material UI, and GitHub. I will assure you the best quality work with 24/7 services, unlimited revisions, and amazing seasonal offers. For any query be easy to contact me.
 
 Skills: Html5 / Css3 / Bootstrapt5 / Tailwindcss / Matarial ui / sass / Javascript / Typescript / React js / Next Js / Node js /Express js / MongoDB /  WebRTC / soket io / React Native
 
